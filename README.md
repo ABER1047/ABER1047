@@ -1,2 +1,2 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABER1047&show_icons=true&theme=dracula&count_private=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABER1047&count_private=true&show_icons=true&theme=dracula&show_icons=true)
