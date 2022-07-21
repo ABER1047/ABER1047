@@ -20,5 +20,4 @@ https://aber1047.netlify.app/
 
 
 ▼ 디스코드
-
-4БЕР#1846
+https://img.shields.io/youtube/channel/views/UCuBkudnNQFlTt6QQ-9Nhdtw?label=%EC%95%84%20%EB%B2%84&logoColor=%23f44336&style=social 4БЕР#1846
