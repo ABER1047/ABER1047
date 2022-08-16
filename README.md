@@ -40,4 +40,6 @@ https://aber1047.netlify.app/
 
 
 <img alt="Adobe Photoshop" src ="https://img.shields.io/badge/Photoshop-31A8FF.svg?&style=for-the-badge&logo=Adobe Photoshop&logoColor=white"/>
+<img alt="Adobe After Effects" src ="https://img.shields.io/badge/After Effects-9999FF.svg?&style=for-the-badge&logo=After Effects&logoColor=white"/>
+<img alt="Adobe Photoshop" src ="https://img.shields.io/badge/Photoshop-31A8FF.svg?&style=for-the-badge&logo=Adobe Photoshop&logoColor=white"/>****
 
