@@ -11,7 +11,7 @@
 
 
 
-#
+---------------------------------------
 
 
 
@@ -25,11 +25,24 @@
 
 
 
-</br></br></br>
+### ▼ Communities </br></br>
+
+<a href="https://discord.gg/TcG38dPRjM"><img alt="dis" src ="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCuBkudnNQFlTt6QQ-9Nhdtw"><img alt="you" src ="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 
 
 
+</br>
 
+
+
+### ▼ Introduce main project </br></br>
+
+<a href="https://aber1047.github.io/project_my_website/"><img alt="git" src ="https://img.shields.io/badge/GitHub.io-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+
+
+
+---------------------------------------
 
 
 
@@ -98,10 +111,7 @@
 </br>
 
 
-</br></br></br>
-
-
-
+#
 
 
 
@@ -126,27 +136,6 @@
 
 
 
-
-
-</br></br></br>
-
-
-
-
-### ▼ Communities </br></br>
-
-<a href="https://discord.gg/TcG38dPRjM"><img alt="dis" src ="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UCuBkudnNQFlTt6QQ-9Nhdtw"><img alt="you" src ="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a>
-
-
-
-</br></br></br>
-
-
-
-### ▼ Introduce main project </br></br>
-
-<a href="https://aber1047.github.io/project_my_website/"><img alt="git" src ="https://img.shields.io/badge/GitHub.io-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 
 </div>
 
