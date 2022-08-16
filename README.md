@@ -39,5 +39,5 @@ https://aber1047.netlify.app/
 
 
 
-<img alt="Adobe Photoshop" src ="https://img.shields.io/badge/Adobe Photoshop-31A8FF.svg?&style=for-the-badge&logo=Adobe Photoshop&logoColor=white"/>
+<img alt="Adobe Photoshop" src ="https://img.shields.io/badge/Photoshop-31A8FF.svg?&style=for-the-badge&logo=Adobe Photoshop&logoColor=white"/>
 
