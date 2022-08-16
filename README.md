@@ -39,4 +39,4 @@ https://aber1047.netlify.app/
 
 
 
-<img alt="adobeaftereffects.svg" src ="https://img.shields.io/badge/Adobe After Effects-#9999FF.svg?&style=for-the-badge&logo=adobeaftereffects.svg&logoColor=#9999FF"/>
+<img alt="adobeaftereffects.svg" src ="https://img.shields.io/badge/adobeaftereffects.svg-#9999FF.svg?&style=for-the-badge&logo=adobeaftereffects.svg&logoColor=#9999FF"/>
