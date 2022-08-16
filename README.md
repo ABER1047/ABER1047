@@ -38,7 +38,7 @@ https://aber1047.netlify.app/
 4БЕР#1846
 
 
-
+<div align="center">
 <img alt="ps" src ="https://img.shields.io/badge/Photoshop-31A8FF.svg?&style=for-the-badge&logo=Adobe Photoshop&logoColor=white"/>
 
 <img alt="af" src ="https://img.shields.io/badge/After Effects-9999FF.svg?&style=for-the-badge&logo=Adobe After Effects&logoColor=white"/>
