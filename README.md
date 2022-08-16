@@ -36,3 +36,7 @@ https://aber1047.netlify.app/
 ## ▼ 디스코드
 
 4БЕР#1846
+
+
+
+<img alt="Adobe After Effects SVG" src ="https://img.shields.io/badge/Adobe After Effects-#9999FF.svg?&style=for-the-badge&logo=Adobe After Effects SVG&logoColor=#9999FF"/>
