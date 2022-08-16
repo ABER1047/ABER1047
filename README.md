@@ -39,4 +39,5 @@ https://aber1047.netlify.app/
 
 
 
-<img alt="adobeaftereffects.svg" src ="https://img.shields.io/badge/adobeaftereffects.svg-#9999FF.svg?&style=for-the-badge&logo=adobeaftereffects.svg&logoColor=#9999FF"/>
+<img alt="adobephotoshop.svg" src ="https://img.shields.io/badge/Adobe Photoshop-#31A8FF.svg?&style=for-the-badge&logo=adobephotoshop.svg&logoColor=#31A8FF"/>
+출처: https://kimasill.tistory.com/entry/Github-깃허브-프로필-꾸미기 [널디 코드 일기:티스토리]
