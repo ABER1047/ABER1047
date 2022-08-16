@@ -61,11 +61,41 @@
 
 <img alt="win" src ="https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white"/>
 
-##### Learning lately
+</br>
+
+##### Once used at least
+
+<img alt="csp" src ="https://img.shields.io/badge/C Sharp-239120.svg?&style=for-the-badge&logo=C Sharp&logoColor=white"/>
+
+<img alt="python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+
+<img alt="arduino" src ="https://img.shields.io/badge/Arduino-00979D.svg?&style=for-the-badge&logo=Arduino&logoColor=white"/>
+
+</br>
+
+<img alt="g_colab" src ="https://img.shields.io/badge/Google Colab-F9AB00.svg?&style=for-the-badge&logo=Google Colab&logoColor=white"/>
+
+<img alt="and_studio" src ="https://img.shields.io/badge/Android Studio-white.svg?&style=for-the-badge&logo=Android Studio&logoColor=3DDC84"/>
+
+<img alt="fb" src ="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=white"/>
+
+</br>
+
+##### Learning lately / Wanna learn
 
 <img alt="spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
 
+<img alt="ko" src ="https://img.shields.io/badge/Kotlin-white.svg?&style=for-the-badge&logo=Kotlin&logoColor=7F52FF"/>
 
+<img alt="node" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
+
+<img alt="aws" src ="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
+
+</br>
+
+<img alt="unity" src ="https://img.shields.io/badge/Unity-black.svg?&style=for-the-badge&logo=Unity&logoColor=white"/>
+
+</br>
 
 
 </br></br></br>
@@ -94,7 +124,6 @@
 
 <img alt="blender" src ="https://img.shields.io/badge/Blender-F5792A.svg?&style=for-the-badge&logo=Blender&logoColor=white"/>
 
-<img alt="blender" src ="https://img.shields.io/badge/Unity-black.svg?&style=for-the-badge&logo=Unity&logoColor=white"/>
 
 
 
@@ -110,6 +139,8 @@
 <a href="https://www.youtube.com/channel/UCuBkudnNQFlTt6QQ-9Nhdtw"><img alt="you" src ="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 
 
+
+</br></br></br>
 
 
 
