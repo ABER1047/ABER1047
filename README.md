@@ -27,17 +27,6 @@
 
 
 
-## ▼ 주요 프로젝트 소개
-
-
-https://aber1047.netlify.app/
-
-
-## ▼ 디스코드
-
-4БЕР#1846
-
-
 <div align="center">
 <img alt="ps" src ="https://img.shields.io/badge/Photoshop-31A8FF.svg?&style=for-the-badge&logo=Adobe Photoshop&logoColor=white"/>
 
@@ -66,3 +55,13 @@ https://aber1047.netlify.app/
 <a href="https://www.youtube.com/channel/UCuBkudnNQFlTt6QQ-9Nhdtw"><img alt="you" src ="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 
 <a href="https://github.com/ABER1047"><img alt="git" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+
+
+
+## ▼ 주요 프로젝트 소개
+
+
+https://aber1047.netlify.app/
+
+
+
