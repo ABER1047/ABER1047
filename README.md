@@ -38,7 +38,7 @@
 
 ### **▼ Introduce main project </br></br>**
 
-<a href="https://aber1047.github.io/project_my_website/"><img alt="git" src ="https://img.shields.io/badge/GitHub.io-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+<a href="https://aber1047.github.io/project_my_website/"><img alt="git" src ="https://img.shields.io/badge/GitHub.io-white.svg?&style=for-the-badge&logo=GitHub&logoColor=181717"/></a>
 
 
 
