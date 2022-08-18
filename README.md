@@ -100,17 +100,24 @@
 
 </br>
 
+<a href = "https://colab.research.google.com/?utm_source=scs-index">
 <img alt="g_colab" src ="https://img.shields.io/badge/Google Colab-F9AB00.svg?&style=for-the-badge&logo=Google Colab&logoColor=white"/>
+</a>
 
+<a href = "https://g.co/kgs/9QMZuf">
 <img alt="and_studio" src ="https://img.shields.io/badge/Android Studio-white.svg?&style=for-the-badge&logo=Android Studio&logoColor=3DDC84"/>
+</a>
 
+<a href = "https://g.co/kgs/VWvbBZ">
 <img alt="fb" src ="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=white"/>
+</a>
 
 </br>
 
 ##### Learning lately / Wanna learn
 
-<img alt="spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
+
+<img alt="java" src ="https://img.shields.io/badge/Java-f89820.svg?&style=for-the-badge&logo=data:image/png;base64,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"/>
 
 <img alt="ko" src ="https://img.shields.io/badge/Kotlin-white.svg?&style=for-the-badge&logo=Kotlin&logoColor=7F52FF"/>
 
