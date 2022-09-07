@@ -112,6 +112,8 @@
 <img alt="fb" src ="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=white"/>
 </a>
 
+<img alt="unity" src ="https://img.shields.io/badge/Unity-black.svg?&style=for-the-badge&logo=Unity&logoColor=white"/>
+
 </br>
 
 ##### Learning lately / Wanna learn
@@ -124,10 +126,6 @@
 <img alt="node" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
 
 <img alt="aws" src ="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
-
-</br>
-
-<img alt="unity" src ="https://img.shields.io/badge/Unity-black.svg?&style=for-the-badge&logo=Unity&logoColor=white"/>
 
 </br>
 
