@@ -12,6 +12,8 @@
 
 
 
+</div>
+
 ---------------------------------------
 
 안녕하세요! 현재 고3인 학생 개발자 입니다!
@@ -161,9 +163,4 @@
 <a href = "https://g.co/kgs/hwQdvi">
 <img alt="blender" src ="https://img.shields.io/badge/Blender-F5792A.svg?&style=for-the-badge&logo=Blender&logoColor=white"/>
 </a>
-
-
-
-
-</div>
 
