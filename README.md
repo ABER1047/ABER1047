@@ -1,20 +1,7 @@
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABER1047&show_icons=true&theme=dracula&show_icons=true&count_private=true)
 
 
-
-
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FABER1047&count_bg=%23F36C98&title_bg=%234D515C&icon=fandom.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=true)](https://hits.seeyoufarm.com)
-<!-- <img src="https://img.shields.io/github/followers/ABER1047?style=flat-square"> -->
-
-
-
-
-
----------------------------------------
 
 **안녕하세요! 현재 고3인 학생 개발자 입니다!**
 
@@ -132,5 +119,24 @@
 <a href = "https://g.co/kgs/hwQdvi">
 <img alt="blender" src ="https://img.shields.io/badge/Blender-F5792A.svg?&style=for-the-badge&logo=Blender&logoColor=white"/>
 </a>
+
+
+
+
+
+---------------------------------------------
+
+![ABER's github stats](https://github-readme-stats.vercel.app/api?username=ABER1047&show_icons=true&count_private=true&theme=github_dark&text_color=white&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABER1047&layout=compact&theme=github_dark&hide_border=true)
+
+
+
+
+
+
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FABER1047&count_bg=%23F36C98&title_bg=%234D515C&icon=fandom.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=true)](https://hits.seeyoufarm.com)
+<!-- <img src="https://img.shields.io/github/followers/ABER1047?style=flat-square"> -->
 
 </div>
