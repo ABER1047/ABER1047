@@ -12,11 +12,11 @@
 
 
 
-</div>
+
 
 ---------------------------------------
 
-안녕하세요! 현재 고3인 학생 개발자 입니다!
+**안녕하세요! 현재 고3인 학생 개발자 입니다!**
 
 프로젝트 구경은 저장소(repositories) 가면됩니당
 
@@ -28,8 +28,7 @@
 
 
 
-### ▼ Communities </br></br>
-
+## ▼ Communities
 <a href = "https://discord.gg/TcG38dPRjM"><img alt="dis" src ="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/></a>
 <a href = "https://www.youtube.com/channel/UCuBkudnNQFlTt6QQ-9Nhdtw"><img alt="you" src ="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 
@@ -39,18 +38,16 @@
 
 
 
-### **▼ Introduce main project </br></br>**
-
+## ▼ Introduce main project
 <a href="https://aber1047.github.io/project_my_website/"><img alt="git" src ="https://img.shields.io/badge/GitHub.io-white.svg?&style=for-the-badge&logo=GitHub&logoColor=181717"/></a>
 
 
 
----------------------------------------
 
 
 
-### ▼ Languages / Platform </br></br>
 
+## ▼ Languages / Platform
 ##### Main
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABER1047&show_icons=true&theme=dracula&show_icons=true&count_private=true)](https://github.com/ABER1047/github-readme-stats) -->
@@ -132,13 +129,12 @@
 </br>
 
 
-#
 
 
 
 
-### ▼ etc
 
+## ▼ etc
 <a href = "https://g.co/kgs/u8bhbD">
 <img alt="ps" src ="https://img.shields.io/badge/Photoshop-31A8FF.svg?&style=for-the-badge&logo=Adobe Photoshop&logoColor=white"/>
 </a>
@@ -164,3 +160,4 @@
 <img alt="blender" src ="https://img.shields.io/badge/Blender-F5792A.svg?&style=for-the-badge&logo=Blender&logoColor=white"/>
 </a>
 
+</div>
