@@ -94,7 +94,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABER1047&layout=compact&theme=github_dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABER1047&layout=compact&theme=github_dark&hide_border=true&count_private=true)
 
 
 
