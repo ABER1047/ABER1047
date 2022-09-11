@@ -71,7 +71,10 @@
 
 ##### Once used at least
 
-<img alt="csp" src ="https://img.shields.io/badge/C Sharp-239120.svg?&style=for-the-badge&logo=C Sharp&logoColor=white"/> <img alt="python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="arduino" src ="https://img.shields.io/badge/Arduino-00979D.svg?&style=for-the-badge&logo=Arduino&logoColor=white"/>
+<img alt="csp" src ="https://img.shields.io/badge/C Sharp-239120.svg?&style=for-the-badge&logo=C Sharp&logoColor=white"/> 
+<img alt="python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> 
+<img alt="arduino" src ="https://img.shields.io/badge/Arduino-00979D.svg?&style=for-the-badge&logo=Arduino&logoColor=white"/>
+<img alt="OpenGL" src ="https://img.shields.io/badge/OpenGL-5586A4.svg?&style=for-the-badge&logo=OpenGL&logoColor=white"/> 
 <a href = "https://colab.research.google.com/?utm_source=scs-index">
 <img alt="g_colab" src ="https://img.shields.io/badge/Google Colab-F9AB00.svg?&style=for-the-badge&logo=Google Colab&logoColor=white"/>
 </a>
@@ -94,7 +97,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABER1047&layout=compact&theme=github_dark&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABER1047&layout=compact&theme=github_dark&hide_border=true&count_private=true&langs_count=12&hide=Yacc,Nsis,aidl)
 
 
 
@@ -120,6 +123,7 @@
 <a href = "https://g.co/kgs/hwQdvi">
 <img alt="blender" src ="https://img.shields.io/badge/Blender-e96c18.svg?&style=for-the-badge&logo=Blender&logoColor=white"/>
 </a>
+
 
 
 <a href = "https://g.co/kgs/pZkEqS">
