@@ -27,7 +27,7 @@
 
 
 
-## ▼ Introduce main project
+## ▼ Introduce
 
 <a href="https://aber1047.github.io/project_my_website/"><img alt="git" src ="https://img.shields.io/badge/GitHub.io-white.svg?&style=for-the-badge&logo=GitHub&logoColor=181717"/></a>
 
