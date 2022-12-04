@@ -1,3 +1,10 @@
+<div align = "center">
+
+![ABER's github stats](https://github-readme-stats.vercel.app/api?username=ABER1047&show_icons=true&count_private=true&theme=github_dark&text_color=white&hide_border=true)
+  
+</div>
+
+
 <img width="240px" align="left" src="gura_none_bg2.gif" />
 
 **안녕하세요! 현재 고3인 학생 개발자 입니다!**
@@ -139,7 +146,6 @@
 
 <div align = "center">
   
-![ABER's github stats](https://github-readme-stats.vercel.app/api?username=ABER1047&show_icons=true&count_private=true&theme=github_dark&text_color=white&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABER1047&layout=compact&theme=github_dark&hide_border=true&count_private=true&langs_count=10&hide=Yacc,Nsis,aidl)
 <!-- <img src="https://img.shields.io/github/followers/ABER1047?style=flat-square"> -->
 </div>
