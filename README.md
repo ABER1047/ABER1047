@@ -36,7 +36,7 @@
 
 
 <ul>
-<img width="354px" align="right" src="_test1.PNG" />
+<img align="right" src="_test1.PNG" />
 
   
   
