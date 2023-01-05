@@ -27,6 +27,10 @@
 
 </br>
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ABER1047&theme=dracula&margin-h=15&no-frame=true&no-bg=true)](https://github.com/ABER1047/github-profile-trophy)
+  
+  
 ##
 
 <ul>
@@ -90,6 +94,7 @@
 ![ABER's github stats](https://github-readme-stats.vercel.app/api?username=ABER1047&show_icons=true&count_private=true&theme=github_dark&text_color=white&hide_border=true)
   
   
+
 </div>
 
 
