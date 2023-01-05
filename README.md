@@ -27,14 +27,14 @@
 
 </br>
 
+
+##
+
 <div align = "center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=ABER1047&theme=algolia&margin-h=15&no-frame=true&no-bg=true&column=-1)](https://github.com/ABER1047/github-profile-trophy)
   
 </div>
-  
-  
-##
 
 <ul>
 <img align="right" src="_test1.PNG" />
