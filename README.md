@@ -16,7 +16,7 @@
 
 
 <dl><dd><dl><dd><dl><dd><dl>
-<a href="https://aber1047.github.io/Project_aboutme/"><img alt="git" src ="https://img.shields.io/badge/Introduce [click]-white.svg?&style=for-the-badge&logo=GitHub&logoColor=181717"/></a> 
+<a href="https://aber1047.github.io/Project_aboutme/"><img alt="git" src ="https://img.shields.io/badge/AboutMe [click]-white.svg?&style=for-the-badge&logo=GitHub&logoColor=181717"/></a> 
 <a href = "https://discord.gg/TcG38dPRjM"><img alt="dis" src ="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/></a> 
 <a href = "https://www.youtube.com/channel/UCuBkudnNQFlTt6QQ-9Nhdtw"><img alt="you" src ="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 </dd></dl></dd></dl></dd></dl></dd>
