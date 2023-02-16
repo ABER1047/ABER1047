@@ -12,7 +12,7 @@
 
 ```특별 문구 없는 프로젝트는 다 1인 제작 프로젝트```
 
-</br></br></br>
+</br></br>
 
 
 <dl><dd><dl><dd><dl><dd><dl>
@@ -21,10 +21,7 @@
 <a href = "https://www.youtube.com/channel/UCuBkudnNQFlTt6QQ-9Nhdtw"><img alt="you" src ="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 </dd></dl></dd></dl></dd></dl></dd>
 
-
-
 </br>
-
 
 ##
 
