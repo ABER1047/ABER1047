@@ -8,9 +8,7 @@
 <img width="240px" align="left" src="gura_none_bg2.gif" />
 
 ### 👋안녕하세요!
-프로젝트 구경은 저장소(repositories)
-
-아래로 쭉 내려서 리드미(Readme) 읽으시면
+프로젝트 구경은 저장소(repositories) 아래로 쭉 내려서 리드미(Readme) 읽으시면
 
 대충 무슨 프로젝트인지 볼 수 있습니당
 
