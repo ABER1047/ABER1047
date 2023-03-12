@@ -8,7 +8,7 @@
 <img width="240px" align="left" src="gura_none_bg2.gif" />
 
 ### 👋안녕하세요! Hello!
-프로젝트 구경은 저장소(repositories) 아래로 쭉 내려서 리드미(Readme) 참고
+주요 프로젝트 구경은 바로 아래에 있는 "About Me" 버튼을 클릭해보세요!
 
 ```특별 문구 없는 프로젝트는 다 1인 제작 프로젝트```
 
