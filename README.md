@@ -5,7 +5,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FABER1047&count_bg=%235EB8E3&title_bg=%234D515C&icon=fandom.svg&icon_color=%23FFFFFF&title=hi👋&edge_flat=true)](https://hits.seeyoufarm.com)
 
 </dd></dl></dd></dl></dd></dl></dd>
-<img width="290px" align="left" src="gura_none_bg2.gif" />
+<img width="270px" align="left" src="pecorine_margin.gif" margin = "32px"/>
 
 
 
