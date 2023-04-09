@@ -5,7 +5,7 @@
 </div>
 
 
-<img width="300px" align="right" src="pecorine_marginalized.gif" margin = "32px"/>
+<img width="320px" align="right" src="pecorine_marginalized.gif" margin = "32px"/>
 
 
 <div align = "center">
@@ -15,14 +15,15 @@
 
 ```특별 문구 없는 프로젝트는 다 1인 제작 프로젝트```
   
-
 <a href="https://aber1047.github.io/Project_aboutme/"><img alt="git" src ="https://img.shields.io/badge/AboutMe [click]-white.svg?&style=for-the-badge&logo=GitHub&logoColor=181717"/></a> 
 <a href = "https://discord.gg/TcG38dPRjM"><img alt="dis" src ="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/></a> 
 <a href = "https://www.youtube.com/channel/UCuBkudnNQFlTt6QQ-9Nhdtw"><img alt="you" src ="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 
-  
 ##
-<img alt="Spotify" src ="https://img.shields.io/badge/Spotify-1DB954.svg?&style=for-the-badge&logo=Spotify&logoColor=white"/> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zyusshlrj9zgcq3p5bzcwfbto&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://aber1047.github.io/Project_aboutme)
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zyusshlrj9zgcq3p5bzcwfbto&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://aber1047.github.io/Project_aboutme)
+  
+<img alt="Spotify" src ="https://img.shields.io/badge/Spotify-1DB954.svg?&style=for-the-badge&logo=Spotify&logoColor=white"/>
   
 </div>
 </br>
