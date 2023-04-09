@@ -5,7 +5,9 @@
 
 </dd></dl></dd></dl></dd></dl></dd>
 
-<img width="240px" align="left" src="gura_none_bg2.gif" />
+<!-- <img width="240px" align="left" src="gura_none_bg2.gif" /> -->
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zyusshlrj9zgcq3p5bzcwfbto&cover_image=true&theme=default&show_offline=true&background_color=2b2b2b&interchange=false&bar_color=42ffb7&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=zyusshlrj9zgcq3p5bzcwfbto&redirect=true)
 
 ### 👋안녕하세요! Hello!
 주요 프로젝트 구경은 바로 아래에 있는 <a href="https://aber1047.github.io/Project_aboutme/">"About Me"</a> 버튼을 클릭해보세요!
