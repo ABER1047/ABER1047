@@ -5,7 +5,7 @@
 </div>
 
 
-<img width="270px" align="right" src="pecorine_margin.gif" margin = "32px"/>
+<img width="270px" align="right" src="pecorine_marginalized.gif" margin = "32px"/>
 
 
 <div align = "center">
