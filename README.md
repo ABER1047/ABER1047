@@ -1,33 +1,39 @@
 
 <dl><dd><dl><dd><dl><dd><dl>
-  
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FABER1047&count_bg=%235EB8E3&title_bg=%234D515C&icon=fandom.svg&icon_color=%23FFFFFF&title=hi👋&edge_flat=true)](https://hits.seeyoufarm.com)
 
 </dd></dl></dd></dl></dd></dl></dd>
+<img width="290px" align="left" src="gura_none_bg2.gif" />
 
-<!-- <img width="240px" align="left" src="gura_none_bg2.gif" /> -->
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zyusshlrj9zgcq3p5bzcwfbto&cover_image=true&theme=default&show_offline=true&background_color=2b2b2b&interchange=false&bar_color=42ffb7&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=zyusshlrj9zgcq3p5bzcwfbto&redirect=true)
+
 
 ### 👋안녕하세요! Hello!
 주요 프로젝트 구경은 바로 아래에 있는 <a href="https://aber1047.github.io/Project_aboutme/">"About Me"</a> 버튼을 클릭해보세요!
 
 ```특별 문구 없는 프로젝트는 다 1인 제작 프로젝트```
+  
 
-</br></br>
-
-
-<dl><dd><dl><dd><dl><dd><dl>
 <a href="https://aber1047.github.io/Project_aboutme/"><img alt="git" src ="https://img.shields.io/badge/AboutMe [click]-white.svg?&style=for-the-badge&logo=GitHub&logoColor=181717"/></a> 
 <a href = "https://discord.gg/TcG38dPRjM"><img alt="dis" src ="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/></a> 
 <a href = "https://www.youtube.com/channel/UCuBkudnNQFlTt6QQ-9Nhdtw"><img alt="you" src ="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a>
-</dd></dl></dd></dl></dd></dl></dd>
 
+<div align = "right">
+  
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zyusshlrj9zgcq3p5bzcwfbto&cover_image=true&theme=natemoo-re&show_offline=true&background_color=333333&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=zyusshlrj9zgcq3p5bzcwfbto&redirect=true)
+  
+</div>
 </br>
 
-##
+
+
+
 
 <div align = "center">
+  
+##
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=ABER1047&theme=chalk&margin-h=15&no-frame=true&no-bg=true&column=-1)](https://github.com/ABER1047/github-profile-trophy)
   
