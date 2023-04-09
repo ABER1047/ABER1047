@@ -20,7 +20,7 @@
 <a href = "https://discord.gg/TcG38dPRjM"><img alt="dis" src ="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/></a> 
 <a href = "https://www.youtube.com/channel/UCuBkudnNQFlTt6QQ-9Nhdtw"><img alt="you" src ="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 
-<div align = "right">
+<div align = "center">
   
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zyusshlrj9zgcq3p5bzcwfbto&cover_image=true&theme=natemoo-re&show_offline=true&background_color=333333&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=zyusshlrj9zgcq3p5bzcwfbto&redirect=true)
   
