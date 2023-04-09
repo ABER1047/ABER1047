@@ -4,7 +4,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FABER1047&count_bg=%235EB8E3&title_bg=%234D515C&icon=fandom.svg&icon_color=%23FFFFFF&title=hi👋&edge_flat=true)](https://hits.seeyoufarm.com)
 
-</dd></dl></dd></dl></dd></dl></dd>
+<!-- </dd></dl></dd></dl></dd></dl></dd> -->
+<div align = "center">
+
 <img width="270px" align="right" src="pecorine_margin.gif" margin = "32px"/>
 
 
@@ -20,7 +22,7 @@
 <a href = "https://discord.gg/TcG38dPRjM"><img alt="dis" src ="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/></a> 
 <a href = "https://www.youtube.com/channel/UCuBkudnNQFlTt6QQ-9Nhdtw"><img alt="you" src ="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 
-<div align = "center">
+
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zyusshlrj9zgcq3p5bzcwfbto&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://aber1047.github.io/Project_aboutme)
   
