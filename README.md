@@ -1,14 +1,14 @@
-
-<div align = "center">
-
+<div align = "right">
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FABER1047&count_bg=%235EB8E3&title_bg=%234D515C&icon=fandom.svg&icon_color=%23FFFFFF&title=hi👋&edge_flat=true)](https://hits.seeyoufarm.com)
 
+</div>
 
 
 <img width="270px" align="right" src="pecorine_margin.gif" margin = "32px"/>
 
 
-
+<div align = "center">
 
 ### 👋안녕하세요! Hello!
 주요 프로젝트 구경은 바로 아래에 있는 <a href="https://aber1047.github.io/Project_aboutme/">"About Me"</a> 버튼을 클릭해보세요!
