@@ -7,7 +7,7 @@
 </div>
 
 <!-- 페코린느 -->
-<img width="320px" align="right" src="pecorine_marginalized.gif" margin = "32px"/>
+<img align="right" src="pecorine_marginalized_2.gif" margin = "32px"/>
 
 
 <div align = "center">
@@ -15,7 +15,7 @@
 ### 👋안녕하세요! Hello! こんにちは!
 You can see the main projects in <a href="https://aber1047.github.io/Project_aboutme/">"About Me"</a>
 
-```All of the projects which have no something special description is solo developed```
+```All projects without special description are solo developed```
 
 <!-- 유튜브, aboutme, 디스코드 링크 버튼 -->
 <a href="https://aber1047.github.io/Project_aboutme/"><img alt="git" src ="https://img.shields.io/badge/AboutMe [click]-white.svg?&style=for-the-badge&logo=GitHub&logoColor=181717"/></a> 
