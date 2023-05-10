@@ -12,10 +12,10 @@
 
 <div align = "center">
 
-### 👋안녕하세요! Hello!
-주요 프로젝트 구경은 바로 아래에 있는 <a href="https://aber1047.github.io/Project_aboutme/">"About Me"</a> 버튼을 클릭해보세요!
+### 👋안녕하세요! Hello! こんにちは!
+You can see the main projects in <a href="https://aber1047.github.io/Project_aboutme/">"About Me"</a>
 
-```특별 문구 없는 프로젝트는 다 1인 제작 프로젝트```
+```All of the projects which have no something special description is solo developed```
 
 <!-- 유튜브, aboutme, 디스코드 링크 버튼 -->
 <a href="https://aber1047.github.io/Project_aboutme/"><img alt="git" src ="https://img.shields.io/badge/AboutMe [click]-white.svg?&style=for-the-badge&logo=GitHub&logoColor=181717"/></a> 
