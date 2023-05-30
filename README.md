@@ -36,13 +36,6 @@ You can see the main projects in <a href="https://aber1047.github.io/Project_abo
 
 
 
-<div align = "center">
-  
-##
-<!--  트로피  -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=ABER1047&theme=chalk&margin-h=15&no-frame=true&no-bg=true&column=-1)](https://github.com/ABER1047/github-profile-trophy)
-  
-</div>
 
 ##
 
@@ -96,6 +89,15 @@ You can see the main projects in <a href="https://aber1047.github.io/Project_abo
 </ul>
 
 </div>
+
+<div align = "center">
+  
+##
+<!--  트로피  -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=ABER1047&theme=chalk&margin-h=15&no-frame=true&no-bg=true&column=-1)](https://github.com/ABER1047/github-profile-trophy)
+  
+</div>
+
 
 
 ##
