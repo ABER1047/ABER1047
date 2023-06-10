@@ -7,7 +7,7 @@
 </div>
 
 <!-- 페코린느 -->
-<img align="right" src="pecorine_marginalized_2.gif" margin = "32px"/>
+<img align="right" src="com--unscreen.gif" margin = "32px"/>
 
 
 <div align = "center">
