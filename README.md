@@ -7,7 +7,7 @@
 </div>
 
 <!-- 페코린느 -->
-<img align="right" src="com--unscreen.gif" margin = "32px" width = "400px">
+<a href="https://aber1047.github.io/MyPortfolio/"><img align="right" src="com--unscreen.gif" margin = "32px" width = "400px"></a>
 
 
 <div align = "center">
