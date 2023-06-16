@@ -27,10 +27,10 @@ You can see the main projects in <a href="https://aber1047.github.io/Project_abo
 <!--  spotify 상태 표시  -->
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zyusshlrj9zgcq3p5bzcwfbto&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://youtu.be/uHw4kUaFRZ0)
   
-<img alt="Spotify" src ="https://img.shields.io/badge/Spotify-1DB954.svg?&style=for-the-badge&logo=Spotify&logoColor=white"/>
+<!-- <img alt="Spotify" src ="https://img.shields.io/badge/Spotify-1DB954.svg?&style=for-the-badge&logo=Spotify&logoColor=white"/> -->
   
 </div>
-</br>
+<!-- </br> -->
 
 
 
