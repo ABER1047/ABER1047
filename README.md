@@ -13,7 +13,7 @@
 <div align = "center">
 
 ### 👋안녕하세요! Hello! こんにちは!
-You can see the main projects in <a href="https://aber1047.github.io/Project_aboutme/">"About Me"</a>
+You can see the main projects in <a href="https://aber1047.github.io/MyPortfolio/">"About Me"</a>
 
 ```All projects without special description are solo developed```
 
