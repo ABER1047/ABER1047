@@ -49,7 +49,7 @@ You can see the main projects in <a href="https://aber1047.github.io/MyPortfolio
 
 
 <div align = "center">
-  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABER1047&layout=compact&theme=github_dark&hide_border=true&count_private=true&langs_count=10&hide=Yacc,Nsis,aidl)
 <!-- <img src="https://img.shields.io/github/followers/ABER1047?style=flat-square"> -->
 
@@ -93,6 +93,9 @@ You can see the main projects in <a href="https://aber1047.github.io/MyPortfolio
 <div align = "center">
   
 ##
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ABER1047&theme=vue" />
+
 <!--  트로피  -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=ABER1047&theme=chalk&margin-h=15&no-frame=true&no-bg=true&column=-1)](https://github.com/ABER1047/github-profile-trophy)
   
