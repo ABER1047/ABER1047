@@ -20,6 +20,7 @@ You can see the main projects in <a href="https://aber1047.github.io/MyPortfolio
 <!-- 유튜브, aboutme, 디스코드 링크 버튼 -->
 <a href="https://aber1047.github.io/MyPortfolio/"><img alt="git" src ="https://img.shields.io/badge/Portfolio [click]-white.svg?&style=for-the-badge&logo=GitHub&logoColor=181717"/></a> 
 <a href = "https://discord.gg/TcG38dPRjM"><img alt="dis" src ="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/></a> 
+<a href = "https://steamcommunity.com/id/324tyAQASDG/"><img alt="dis" src ="https://img.shields.io/badge/Steam-000000.svg?&style=for-the-badge&logo=Steam&logoColor=white"/></a> 
 <!-- <a href = "https://www.youtube.com/channel/UCuBkudnNQFlTt6QQ-9Nhdtw"><img alt="you" src ="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a> -->
 
 ##
