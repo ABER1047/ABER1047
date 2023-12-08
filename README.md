@@ -13,6 +13,7 @@
 <div align = "center">
 
 ### 👋안녕하세요! Hello! こんにちは!
+I'm student developer. Every project that there's no something special description is indie developed.
 You can see the main projects in <a href="https://aber1047.github.io/MyPortfolio/">"About Me"</a>
 
 ```All projects without special description are solo developed```
