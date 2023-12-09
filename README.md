@@ -14,11 +14,11 @@
 
 ### 👋안녕하세요! Hello! こんにちは!
 
-> I'm student developer who make something fun!
+> <b> I'm student developer who make something fun!
 > 
 > You can see the main projects in <a href="https://aber1047.github.io/MyPortfolio/">"About Me"</a>
 > 
-> ```All projects without special description are solo developed```
+> ```All projects without special description are solo developed``` </b>
 > 
 > 
 > <!-- 유튜브, aboutme, 디스코드 링크 버튼 -->
