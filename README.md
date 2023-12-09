@@ -10,29 +10,36 @@
 <a href="https://aber1047.github.io/MyPortfolio/"><img align="right" src="com--unscreen.gif" margin = "32px" width = "400px"></a>
 
 
-<div align = "center">
+
 
 ### 👋안녕하세요! Hello! こんにちは!
 
-I'm student developer.
+> I'm student developer who make something fun!
+> 
+> You can see the main projects in <a href="https://aber1047.github.io/MyPortfolio/">"About Me"</a>
+> 
+> ```All projects without special description are solo developed```
+> 
+> 
+> <!-- 유튜브, aboutme, 디스코드 링크 버튼 -->
+> <a href="https://aber1047.github.io/MyPortfolio/"><img alt="git" src ="https://img.shields.io/badge/Portfolio [click]-white.svg?&style=for-the-badge&logo=GitHub&logoColor=181717"/></a> 
+> <a href = "https://discord.gg/TcG38dPRjM"><img alt="dis" src ="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/></a> 
+> <a href = "https://steamcommunity.com/id/324tyAQASDG/"><img alt="dis" src ="https://img.shields.io/badge/Steam-000000.svg?&style=for-the-badge&logo=Steam&logoColor=white"/></a>
 
-You can see the main projects in <a href="https://aber1047.github.io/MyPortfolio/">"About Me"</a>
+<div align = "center">
 
-```All projects without special description are solo developed```
-
-<!-- 유튜브, aboutme, 디스코드 링크 버튼 -->
-<a href="https://aber1047.github.io/MyPortfolio/"><img alt="git" src ="https://img.shields.io/badge/Portfolio [click]-white.svg?&style=for-the-badge&logo=GitHub&logoColor=181717"/></a> 
-<a href = "https://discord.gg/TcG38dPRjM"><img alt="dis" src ="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/></a> 
-<a href = "https://steamcommunity.com/id/324tyAQASDG/"><img alt="dis" src ="https://img.shields.io/badge/Steam-000000.svg?&style=for-the-badge&logo=Steam&logoColor=white"/></a> 
+```Language : kr-KR / jp-JP / en-US```
 <!-- <a href = "https://www.youtube.com/channel/UCuBkudnNQFlTt6QQ-9Nhdtw"><img alt="you" src ="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a> -->
 
-##
+<!--  ##  -->
 
+
+  
 <!--  spotify 상태 표시  -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zyusshlrj9zgcq3p5bzcwfbto&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://youtu.be/uHw4kUaFRZ0)
+<!--  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zyusshlrj9zgcq3p5bzcwfbto&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://youtu.be/uHw4kUaFRZ0)  -->
   
 <!-- <img alt="Spotify" src ="https://img.shields.io/badge/Spotify-1DB954.svg?&style=for-the-badge&logo=Spotify&logoColor=white"/> -->
-  
+
 </div>
 <!-- </br> -->
 
