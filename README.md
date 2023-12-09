@@ -7,7 +7,7 @@
 </div>
 
 <!-- 페코린느 -->
-<a href="https://aber1047.github.io/MyPortfolio/"><img align="right" src="com--unscreen.gif" margin = "32px" width = "400px"></a>
+<a href="https://aber1047.github.io/MyPortfolio/"><img align="right" src="com--unscreen.gif" margin = "32px" width = "370px"></a>
 
 
 
@@ -33,8 +33,6 @@
 
 <!--  ##  -->
 
-
-  
 <!--  spotify 상태 표시  -->
 <!--  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zyusshlrj9zgcq3p5bzcwfbto&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://youtu.be/uHw4kUaFRZ0)  -->
   
