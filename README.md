@@ -7,7 +7,7 @@
 </div>
 
 <!-- 페코린느 -->
-<a href="https://aber1047.github.io/MyPortfolio/"><img align="right" src="com--unscreen.gif" margin = "32px" width = "350px"></a>
+<a href="https://aber1047.github.io/MyPortfolio/"><img align="right" src="output-onlinegiftools (2).gif" margin = "32px" width = "370px"></a>
 
 
 
