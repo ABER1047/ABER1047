@@ -28,61 +28,70 @@
 > 
 > <div align = "center">
 > 
-> ```Language : kr-KR / jp-JP / en-US```
-<!-- <a href = "https://www.youtube.com/channel/UCuBkudnNQFlTt6QQ-9Nhdtw"><img alt="you" src ="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a> -->
 
-<!--  ##  -->
 
-<!--  spotify 상태 표시  -->
-<!--  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zyusshlrj9zgcq3p5bzcwfbto&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://youtu.be/uHw4kUaFRZ0)  -->
-  
-<!-- <img alt="Spotify" src ="https://img.shields.io/badge/Spotify-1DB954.svg?&style=for-the-badge&logo=Spotify&logoColor=white"/> -->
+
+
+</br>
+<div align = "center">
+
+
+|<div align = "center"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABER1047&layout=compact&theme=github_dark&hide_border=true&count_private=true&langs_count=10&hide=Yacc,Nsis,aidl) </div>|<div align = "left">      Main</br>      <code><a href = "https://en.wikipedia.org/wiki/GameMaker"><img height = "24px" src = "imgs/gml.png"></a></code>      <code><a href = "https://en.wikipedia.org/wiki/JavaScript"><img height = "24px" src = "imgs/js.png"></a></code>      <code><a href = "https://en.wikipedia.org/wiki/HTML"><img height = "24px" src = "imgs/html.png"></a></code>       <code><a href = "https://en.wikipedia.org/wiki/CSS"><img height = "24px" src = "imgs/css.png"></a></code>       <code><a href = "https://en.wikipedia.org/wiki/Java_(programming_language)"><img height = "24px" src = "imgs/java.png"></a></code>     <code><a href = "https://en.wikipedia.org/wiki/C_(programming_language)"><img height = "24px" src = "imgs/c.png"></a></code>       <code><a href = "https://en.wikipedia.org/wiki/C%2B%2B"><img height = "24px" src = "imgs/cpp.png"></a></code>      <code><a href = "https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Android_(operating_system)"><img height = "24px" src = "imgs/android.png"></a></code>     <code><a href = "https://en.wikipedia.org/wiki/Microsoft_Windows"><img height = "24px" src = "imgs/windows.png"></a></code>     </br></br>Sub</br>      <code><a href = "https://en.wikipedia.org/wiki/Python_(programming_language)"><img height = "24px" src = "imgs/python.png"></a></code>       <code><a href = "https://en.wikipedia.org/wiki/Android_Studio"><img height = "24px" src = "imgs/android_studio.png"></a></code>       <code><a href = "https://en.wikipedia.org/wiki/Arduino"><img height = "24px" src = "imgs/aduino.png"></a></code>    <code><a href = "https://en.wikipedia.org/wiki/Unity_(game_engine)"><img height = "24px" src = "imgs/unity.png"></a></code>     </br></br>Etc.</br>     <code><a href = "https://en.wikipedia.org/wiki/Adobe_Photoshop"><img height = "24px" src = "imgs/photoshop.png"></a></code>   <code><a href = "https://en.wikipedia.org/wiki/Adobe_After_Effects"><img height = "24px" src = "imgs/aftereffects.png"></a></code>      <code><a href = "https://en.wikipedia.org/wiki/Clip_Studio_Paint"><img height = "24px" src = "imgs/clips.png"></a></code>   <code><a href = "https://en.wikipedia.org/wiki/Aseprite"><img height = "24px" src = "imgs/asp.png"></a></code>      </br></br>Learning</br>      <code><a href = "https://en.wikipedia.org/wiki/Blender_(software)"><img height = "24px" src = "imgs/blender.png"></a></code>      <code><a href = "https://en.wikipedia.org/wiki/FL_Studio"><img height = "24px" src = "imgs/flstudio.png"></a></code>        <code><a href = "https://en.wikipedia.org/wiki/Kotlin_(programming_language)"><img height = "24px" src = "imgs/kotlin.png"></a></code>      </div>|
+|--|--|
+
+
+</div>
+
+
+
+
 
 </div>
 <!-- </br> -->
 
+## ☄️About me
 
+* #### 👋Hello!
+  * ###### I'm a person who is living in South Korea
+  * ###### Currently in 2nd year of computer software engineering at university
+  * ###### I like everything related to games and that's why I am learning drawings and music making to make my indie games
+  * ###### And also I'm interested in everything related to computers that's why I've learned programing and etc.
 
+</br>
 
+* #### 🌐Lang
+  * ###### Kr, Jp, Eng (I've learned Japanese through my Japanese friends, books and still learning now)
 
+</br>
 
-##
+* #### 🏆Solved.ac [S4]
+  * ###### Currently learning various algorithms with solving some problems
+ 
+</br>
 
-<div align = "center">
+<details>
+  <summary><b>🚀Stats (Click to expand)</b></summary>
+
+  | [![trophy](https://github-profile-trophy.vercel.app/?username=ABER1047&theme=chalk&margin-h=15&no-frame=true&no-bg=true&row=2&column=3)](https://github.com/ABER1047/github-profile-trophy) | ![ABER*](https://github-readme-stats.vercel.app/api?username=ABER1047&show_icons=true&count_private=true&theme=github_dark&text_color=white&hide_border=true&custom_title=ABER*) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aber1047)](https://solved.ac/aber1047/) |
+  |--|--|--|
   
-|<div align = "center"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABER1047&layout=compact&theme=github_dark&hide_border=true&count_private=true&langs_count=10&hide=Yacc,Nsis,aidl) </div>|<div align = "left">      Main</br>      <code><a href = "https://en.wikipedia.org/wiki/GameMaker"><img height = "24px" src = "imgs/gml.png"></a></code>      <code><a href = "https://en.wikipedia.org/wiki/JavaScript"><img height = "24px" src = "imgs/js.png"></a></code>      <code><a href = "https://en.wikipedia.org/wiki/HTML"><img height = "24px" src = "imgs/html.png"></a></code>       <code><a href = "https://en.wikipedia.org/wiki/CSS"><img height = "24px" src = "imgs/css.png"></a></code>       <code><a href = "https://en.wikipedia.org/wiki/Java_(programming_language)"><img height = "24px" src = "imgs/java.png"></a></code>     <code><a href = "https://en.wikipedia.org/wiki/C_(programming_language)"><img height = "24px" src = "imgs/c.png"></a></code>       <code><a href = "https://en.wikipedia.org/wiki/C%2B%2B"><img height = "24px" src = "imgs/cpp.png"></a></code>      <code><a href = "https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Android_(operating_system)"><img height = "24px" src = "imgs/android.png"></a></code>     <code><a href = "https://en.wikipedia.org/wiki/Microsoft_Windows"><img height = "24px" src = "imgs/windows.png"></a></code>     </br></br>Sub</br>      <code><a href = "https://en.wikipedia.org/wiki/Python_(programming_language)"><img height = "24px" src = "imgs/python.png"></a></code>       <code><a href = "https://en.wikipedia.org/wiki/Android_Studio"><img height = "24px" src = "imgs/android_studio.png"></a></code>       <code><a href = "https://en.wikipedia.org/wiki/Arduino"><img height = "24px" src = "imgs/aduino.png"></a></code>    <code><a href = "https://en.wikipedia.org/wiki/Unity_(game_engine)"><img height = "24px" src = "imgs/unity.png"></a></code>     </br></br>Etc.</br>    <code><a href = "https://en.wikipedia.org/wiki/Adobe_Photoshop"><img height = "24px" src = "imgs/photoshop.png"></a></code>   <code><a href = "https://en.wikipedia.org/wiki/Adobe_After_Effects"><img height = "24px" src = "imgs/aftereffects.png"></a></code>      <code><a href = "https://en.wikipedia.org/wiki/Clip_Studio_Paint"><img height = "24px" src = "imgs/clips.png"></a></code>   <code><a href = "https://en.wikipedia.org/wiki/Aseprite"><img height = "24px" src = "imgs/asp.png"></a></code></div>|
-|--|--|
-
-</div>
+</details>
 
 
 
 
 
 
-<div align = "center">
-  
-##
-
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABER1047&theme=vue" /> -->
-
-<!--  트로피  -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=ABER1047&theme=chalk&margin-h=15&no-frame=true&no-bg=true&column=-1)](https://github.com/ABER1047/github-profile-trophy)
-  
-</div>
 
 
 
-##
 
-<div align = "center">
 
-![ABER*](https://github-readme-stats.vercel.app/api?username=ABER1047&show_icons=true&count_private=true&theme=github_dark&text_color=white&hide_border=true&custom_title=ABER*)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aber1047)](https://solved.ac/aber1047/)
-  
-  
 
-</div>
+
+
+
+
 
 
 
