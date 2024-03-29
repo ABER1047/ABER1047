@@ -7,7 +7,7 @@
 </div>
 
 <!-- 페코린느 -->
-<a href = "https://aber1047.github.io/MyPortfolio/"><img align="right" src = "imgs/shuppo.gif" width = "240px"></a>
+<a href = "https://aber1047.github.io/MyPortfolio/"><img align="right" src = "imgs/shuppo.gif" width = "200px"></a>
 
 
 
