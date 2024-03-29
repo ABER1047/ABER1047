@@ -64,7 +64,7 @@
   
 ##
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ABER1047&theme=vue" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABER1047&theme=vue" /> -->
 
 <!--  트로피  -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=ABER1047&theme=chalk&margin-h=15&no-frame=true&no-bg=true&column=-1)](https://github.com/ABER1047/github-profile-trophy)
