@@ -55,7 +55,7 @@
 
 * #### <img width = "24px" src = "https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab94bcec74.png"></img> Hello!
   * ###### I'm a person who is living in South Korea
-  * ###### Currently in 2nd year of computer software engineering at university
+  * ###### Currently in 2nd year of computer software engineering
   * ###### I like everything related to games and that's why I am learning drawings and music making to make my indie games
   * ###### And also I'm interested in everything related to computers that's why I've learned programing and etc.
 
