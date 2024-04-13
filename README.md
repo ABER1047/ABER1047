@@ -9,7 +9,7 @@
 </div>
 
 <!-- 페코린느 -->
-<a href = "https://aber1047.github.io/MyPortfolio/"><img align="right" src = "imgs/shuppogaki.gif" width = "500px"></a>
+<a href = "https://www.youtube.com/watch?v=tIip_oKO2Ro"><img align="right" src = "imgs/shuppogaki.gif" width = "500px"></a>
 
 
 
