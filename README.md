@@ -9,7 +9,7 @@
 </div>
 
 <!-- 짤 -->
-<a href = ""><img align="right" src = "output-onlinegiftools (1).gif" width = "420px"></a>
+<img align = "right" src = "imgs/aru.gif" width = "320px"></img>
 
 
 
