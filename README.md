@@ -8,8 +8,8 @@
 
 </div>
 
-<!-- 페코린느 -->
-<a href = "https://www.youtube.com/watch?v=tIip_oKO2Ro"><img align="right" src = "imgs/shuppogaki.gif" width = "420px"></a>
+<!-- 짤 -->
+<a href = ""><img align="right" src = "output-onlinegiftools (1).gif" width = "420px"></a>
 
 
 
