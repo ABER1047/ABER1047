@@ -1,7 +1,7 @@
 <div align = "right">
   
 
-<a href = "https://aber1047.github.io/MyPortfolio/">![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=0,2,2,5,30&text=ABER*&section=header&reversal=false&fontAlign=50&descAlign=16&descAlignY=8&fontAlignY=53&strokeWidth=1&stroke=000000)</a>
+<a href = "https://aber1047.github.io/MyPortfolio/">![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=0,2,2,5,30&text=ABER*&section=header&reversal=false&fontAlign=50&descAlign=50&descAlignY=73&fontAlignY=53&strokeWidth=1&stroke=000000&desc=ABER*'s%20Github%20Profile)</a>
 
 
 <!-- 방문자 수 표기 -->
@@ -10,7 +10,7 @@
 </div>
 
 <!-- 짤 -->
-<img align = "right" src = "imgs/elaina_night.gif" width = "256px"></img>
+<img align = "right" src = "imgs/elaina_night.gif" width = "160px"></img>
 
 
 
