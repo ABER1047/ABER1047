@@ -29,7 +29,7 @@
 > <a href="https://aber-hosi.notion.site/ABER-4d90966a7b634d0988a8d0ad1b9a3fd9?pvs=4"><img alt="git" src ="https://img.shields.io/badge/Notion-191919.svg?&style=for-the-badge&logo=Notion&logoColor=ffffff"/></a>
 >
 > <a href = "https://discord.gg/TcG38dPRjM"><img alt="dis" src ="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/></a> 
-> <a href = "https://steamcommunity.com/id/324tyAQASDG/"><img alt="dis" src ="https://img.shields.io/badge/Steam-000000.svg?&style=for-the-badge&logo=Steam&logoColor=white"/></a>
+> <a href = "https://steamcommunity.com/id/ABER_hosi/"><img alt="dis" src ="https://img.shields.io/badge/Steam-000000.svg?&style=for-the-badge&logo=Steam&logoColor=white"/></a>
 
 
 
