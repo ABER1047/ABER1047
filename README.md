@@ -45,7 +45,7 @@
 
 <div align = "right">
   
-> 👆This Profile design is one of <a href = "https://github.com/ABER1047/PrettierGithub">my work</a>!
+> 👆 This Profile design is one of <a href = "https://github.com/ABER1047/PrettierGithub">my work</a>!
 > 
 > 요 프로필 디자인은 <a href = "https://github.com/ABER1047/PrettierGithub">제 작업물</a>입니다!
 
