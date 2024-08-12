@@ -10,8 +10,8 @@
 </div>
 
 <!-- 짤 -->
-<img align = "right" src = "imgs/aru.gif" width = "270px"></img>
-
+<img align = "right" src = "imgs/icon_2.gif" width = "160px"></img>
+<img align = "right" src = "imgs/icon_1.gif" width = "160px"></img>
 
 
 
