@@ -10,9 +10,7 @@
 </div>
 
 <!-- 짤 -->
-<img align = "right" src = "imgs/icon_2.gif" width = "160px"></img>
-<img align = "right" src = "imgs/icon_1.gif" width = "160px"></img>
-
+<img align = "right" src = "imgs/aru.gif" width = "280px"></img>
 
 
 ### 👋안녕하세요! Hello! こんにちは!
@@ -60,9 +58,9 @@
 </div>
 <!-- </br> -->
 
-## <img width = "32px" src = "https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png"></img> About me
+## <img width = "28px" src = "imgs/icon_1.gif"></img> About me
 
-* #### <img width = "24px" src = "https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab94bcec74.png"></img> Hello!
+* #### <img width = "26px" src = "imgs/icon_28.gif"></img> Hello!
   * ###### I'm a person who is living in South Korea
   * ###### Currently in 2nd year of computer software engineering
   * ###### I like everything related to games and that's why I am learning drawings and music making to make my indie games
@@ -70,18 +68,18 @@
 
 </br>
 
-* #### 🌐Lang
+* #### <img width = "28px" src = "imgs/icon_18.gif"></img> Lang
   * ###### Kr, Jp, Eng (I've learned Japanese through my Japanese friends, books and still learning now)
 
 </br>
 
-* #### <img width = "26px" src = "https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"></img> Solved.ac [S3]
+* #### <img width = "28px" src = "imgs/icon_20.gif"></img> Solved.ac [S3]
   * ###### Currently learning various algorithms with solving some problems
  
 </br>
 
 <details>
-  <summary><b><img width = "26px" src = "https://private-user-images.githubusercontent.com/74038190/243078652-7cc5988c-f607-4d4f-ab01-360a4f9321eb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE2OTg5OTUsIm5iZiI6MTcxMTY5ODY5NSwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTItN2NjNTk4OGMtZjYwNy00ZDRmLWFiMDEtMzYwYTRmOTMyMWViLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzI5VDA3NTEzNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAzMTNmZWU2M2RmYTEzN2U5Y2Q5NGI0NDg0MTMyNWQxNzkxYmQzMWY3MzQ4Njc0N2E2ZGJjN2Y3YzZhOWFmNzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.1C4HcKgsnhgpQB5cJuzUcwmSfvCJE9RCsY5xSdL3-xE"></img> Stats [Click to expand)</b></summary>
+  <summary><b><img width = "28px" src = "imgs/icon_2.gif"></img> Stats [Click to expand)</b></summary>
 
   | [![trophy](https://github-profile-trophy.vercel.app/?username=ABER1047&theme=chalk&margin-h=15&no-frame=true&no-bg=true&row=2&column=3)](https://github.com/ABER1047/github-profile-trophy) | ![ABER*](https://github-readme-stats.vercel.app/api?username=ABER1047&show_icons=true&count_private=true&theme=github_dark&text_color=white&hide_border=true&custom_title=ABER*) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aber1047)](https://solved.ac/aber1047/) |
   |--|--|--|
