@@ -1,11 +1,20 @@
-<div align = "right">
-  
-
-<a href = "https://aber1047.github.io/MyPortfolio/">![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=0,2,2,5,30&text=ABER*&section=header&reversal=false&fontAlign=50&descAlign=50&descAlignY=73&fontAlignY=53&strokeWidth=1&stroke=000000&desc=ABER*'s%20Github%20Profile)</a>
 
 
 <!-- 방문자 수 표기 -->
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FABER1047&count_bg=%235EB8E3&title_bg=%234D515C&icon=fandom.svg&icon_color=%23FFFFFF&title=hi👋&edge_flat=true)](https://hits.seeyoufarm.com) -->
+
+<!-- bg -->
+<div align = "center">
+  
+  <img align = "right" src = "imgs/elaina_bg.gif" width = "100%"></img>
+  
+</div>
+
+
+
+<div align = "right">
+
+# ABER*
 
 </div>
 
@@ -13,7 +22,8 @@
 <img align = "right" src = "imgs/aru.gif" width = "280px"></img>
 
 
-### 👋안녕하세요! Hello! こんにちは!
+
+- ### 👋안녕하세요! Hello! こんにちは!
 
 > <b> I'm student developer who make something fun!
 > 
