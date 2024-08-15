@@ -73,7 +73,7 @@
 
 </br>
 
-* #### <img width = "28px" src = "imgs/icon_20.gif"></img> Solved.ac [S3]
+* #### <img width = "28px" src = "imgs/icon_20.gif"></img> Solved.ac [S2]
   * ###### Currently learning various algorithms with solving some problems
  
 </br>
