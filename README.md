@@ -92,7 +92,7 @@
 <details>
   <summary><b><img width = "28px" src = "imgs/icon_2.gif"></img> Stats [Click to expand)</b></summary>
 
-  | [![trophy](https://github-profile-trophy.vercel.app/?username=ABER1047&theme=chalk&margin-h=15&no-frame=true&no-bg=true&row=2&column=3)](https://github.com/ABER1047/github-profile-trophy) | ![ABER*](https://github-readme-stats.vercel.app/api?username=ABER1047&show_icons=true&count_private=true&theme=github_dark&text_color=white&hide_border=true&custom_title=ABER*) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aber1047)](https://solved.ac/aber1047/) |
+  | [![trophy](https://github-profile-trophy.vercel.app/?username=ABER1047&theme=chalk&margin-h=15&no-frame=true&no-bg=true&row=2&column=3)](https://github.com/ABER1047/github-profile-trophy) | ![ABER*](https://github-readme-stats.vercel.app/api?username=ABER1047&show_icons=true&count_private=true&theme=github_dark&text_color=white&hide_border=true&custom_title=ABER*) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aber1047)]() |
   |--|--|--|
   
 </details>
