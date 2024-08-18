@@ -24,7 +24,7 @@
 
 
 
-- ### 👋안녕하세요! Hello! こんにちは!
+### 👋 안녕하세요! Hello! こんにちは!
 
 > <b> I'm student developer who make something fun!
 > 
