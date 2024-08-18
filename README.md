@@ -20,7 +20,7 @@
 </div>
 
 <!-- 짤 -->
-<img align = "right" src = "imgs/aru.gif" width = "280px"></img>
+<img align = "right" src = "imgs/aru.gif" width = "28%"></img>
 
 
 
