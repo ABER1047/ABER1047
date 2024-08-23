@@ -73,7 +73,7 @@
 
 * #### <img width = "26px" src = "imgs/icon_28.gif"></img> Hello!
   * ###### I'm a person who is living in South Korea
-  * ###### Currently in 2nd year of computer software engineering
+  * ###### Currently in 2nd year of computer software engineering</br>[scheduled to serve in the Air Force - 14/10/2024 ~ 14/7/2026]
   * ###### I like everything related to games and that's why I am learning drawings and music making to make my indie games
   * ###### And also I'm interested in everything related to computers that's why I've learned programing and etc.
 
