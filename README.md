@@ -80,7 +80,7 @@
 </br>
 
 * #### <img width = "28px" src = "imgs/icon_18.gif"></img> Lang
-  * ###### Kr, Jp, Eng (I've learned Japanese through my Japanese friends, books and still learning now)
+  * ###### I can speak English and Japanese </br>I’ve studied English and Japanese with books and native speaker friends.
 
 </br>
 
